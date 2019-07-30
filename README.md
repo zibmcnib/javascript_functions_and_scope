@@ -1,0 +1,1 @@
+# javascript_functions_scope
